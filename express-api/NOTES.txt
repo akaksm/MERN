@@ -1,0 +1,13 @@
+MVC
+M - Model (database)
+V - View (User interface)
+C - Controller (Function)
+
+To make a package.json file do the following in terminal 
+npm init -y
+
+TO install the express do the following in the terminal
+npm install express
+
+for .env file do the following
+npm install dotenv
